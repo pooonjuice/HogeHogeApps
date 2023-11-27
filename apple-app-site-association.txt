@@ -1,0 +1,63 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "9D5S264DZ8.com.dmm.sub.ptown",
+                "paths": [
+                    "/",
+                    "/shops/news*",
+                    "/shops/recommends*",
+                    "/shops/hokkaido/*",
+                    "/shops/aomori/*",
+                    "/shops/iwate/*",
+                    "/shops/miyagi/*",
+                    "/shops/akita/*",
+                    "/shops/yamagata/*",
+                    "/shops/fukushima/*",
+                    "/shops/ibaragi/*",
+                    "/shops/ibaraki/*",
+                    "/shops/tochigi/*",
+                    "/shops/gunma/*",
+                    "/shops/saitama/*",
+                    "/shops/chiba/*",
+                    "/shops/tokyo/*",
+                    "/shops/kanagawa/*",
+                    "/shops/niigata/*",
+                    "/shops/toyama/*",
+                    "/shops/ishikawa/*",
+                    "/shops/fukui/*",
+                    "/shops/yamanashi/*",
+                    "/shops/nagano/*",
+                    "/shops/gifu/*",
+                    "/shops/shizuoka/*",
+                    "/shops/aichi/*",
+                    "/shops/mie/*",
+                    "/shops/shiga/*",
+                    "/shops/kyoto/*",
+                    "/shops/osaka/*",
+                    "/shops/hyogo/*",
+                    "/shops/nara/*",
+                    "/shops/wakayama/*",
+                    "/shops/tottori/*",
+                    "/shops/shimane/*",
+                    "/shops/okayama/*",
+                    "/shops/hiroshima/*",
+                    "/shops/yamaguchi/*",
+                    "/shops/tokushima/*",
+                    "/shops/kagawa/*",
+                    "/shops/ehime/*",
+                    "/shops/kochi/*",
+                    "/shops/fukuoka/*",
+                    "/shops/saga/*",
+                    "/shops/nagasaki/*",
+                    "/shops/kumamoto/*",
+                    "/shops/oita/*",
+                    "/shops/miyazaki/*",
+                    "/shops/kagoshima/*",
+                    "/shops/okinawa/*"
+				]
+			}
+		]
+	}
+}
