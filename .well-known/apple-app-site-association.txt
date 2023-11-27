@@ -1,0 +1,15 @@
+"applinks": {
+    "details": [
+      {
+        "appIDs": [ 
+          "ABCDEFGHIJ.jp.co.myapp"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Any comments"
+          }
+        ]
+      }
+    ]
+  }
