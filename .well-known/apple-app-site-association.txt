@@ -2,7 +2,7 @@
     "details": [
       {
         "appIDs": [ 
-          "ABCDEFGHIJ.jp.co.myapp"
+          "6Q8L878VGF.jp.as-systems.SampleUniversalLink"
         ],
         "components": [
           {
